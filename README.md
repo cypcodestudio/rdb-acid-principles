@@ -1,4 +1,4 @@
-# rdb-acid-principles
+# RDB ACID Principles
 Relational DB Acid Principles in Transactions
 
 ACID properties are a set of principles that ensure reliable processing in database systems, particularly in relational databases. These properties guarantee that database transactions are processed reliably, even in cases of errors, power failures, or other issues. ACID stands for:
